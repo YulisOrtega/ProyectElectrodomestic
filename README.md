@@ -5,6 +5,7 @@ Proyecto para la materia AWOS
 ## Indice
 - [1. Introducción](#1.Introducción)
 - - [1.1 Proposito](#1.1Proposito)
+    -Tenemos el proposito de ayudar, a pequeños y grandes negocios enfocados en la reparacion de electrodomesticos, mostrando en nuestra pagina web la descripcion, ubicacion y disponibilidad de cada negocio, para que el usuario pueda obtener las mejores opciones, en la region de Xicotepec de Juarez Puebla.
 - - [1.1 Estandares del documento](#1.1Proposito)
 - [Objetivos del proyecto](#Objetivo)
 - [Propósito](#Propósito)
