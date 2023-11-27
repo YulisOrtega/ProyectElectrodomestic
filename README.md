@@ -3,7 +3,8 @@ Proyecto para la materia AWOS
 <h1 align="center">Tecni Solutions</h1>
 
 ## Indice
-- [Introducción](#Introducción)
+- [Introducción](#1.Introducción)
+- - [Introducción](#1.1Proposito)
 - [Objetivos del proyecto](#Objetivo)
 - [Propósito](#Propósito)
 - [Teconologías utilizadas para el proyecto](#Tecnologias_utilizadas)
