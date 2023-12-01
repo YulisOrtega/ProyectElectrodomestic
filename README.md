@@ -14,10 +14,12 @@ Proyecto para la materia AWOS
 - [7. Modelo de datos](#Modelo_de_datos)
 - [8. Wireframes](#Wireframes)
 
-- ## Introduccion 
+- ## 1. Introduccion 
 - - [1.1 Proposito](#1.1Proposito)
 -Tenemos el proposito de ayudar, a pequeños y grandes negocios enfocados en la reparacion de electrodomesticos, mostrando en nuestra pagina web la descripcion, ubicacion y disponibilidad de cada negocio, para que el usuario pueda obtener las mejores opciones, en la region de Xicotepec de Juarez Puebla.
-- ## Objetivos
+ - - [1.2 Estandares del documento](#1.1Proposito)
+
+- ## 2. Objetivos
 -Crear una aplicacion web para el mantenimiento de electrodomesticos donde se enfocara en la atencion al cliente y a los servicios que tenemos para ofrecer
 
 
