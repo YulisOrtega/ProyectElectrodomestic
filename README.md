@@ -20,7 +20,7 @@ Proyecto para la materia AWOS
  - - [1.2 Estandares del documento](#1.1Proposito)
 
 - ## 2. Objetivos
--Crear una aplicacion web para el mantenimiento de electrodomesticos donde se enfocara en la atencion al cliente y a los servicios que tenemos para ofrecer
+-Crear una aplicacion web para el mantenimiento de electrodomesticos donnde se enfocara en la atencion al cliente y a los servicios que tenemos para ofrecer
 
 
 
