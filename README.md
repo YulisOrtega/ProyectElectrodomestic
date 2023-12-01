@@ -15,7 +15,9 @@ Proyecto para la materia AWOS
 - [Reglas de negociación](#Reglas)
 - [Modelo de datos](#Modelo_de_datos)
 - [Wireframes](#Wireframes)
+- ## -[1. Introducción](#1.Introducción)-holis
+
   
 
-- NUEVO CAMBIO
+
 
